@@ -1,0 +1,34 @@
+# shellcheck disable=SC2034,SC2154
+# Maintainer: andersonlizarazo <dev@andersonlizarazo.com>
+
+pkgname=media-fixtures
+pkgver=1.0.0
+pkgrel=1
+pkgdesc='Sample media and text files with documented properties, for testing software'
+arch=('any')
+url='https://github.com/andersonlizarazo/ArchLinux-Packages'
+license=('CC0-1.0')
+depends=()
+source=("$pkgname-$pkgver.tar.gz::https://github.com/andersonlizarazo/ArchLinux-Packages/archive/refs/tags/v$pkgver.tar.gz")
+sha256sums=('a2a1d743f29aceb58d8e5dc50c1c5c20817d0643de667acedbc635f1367b854f')
+
+package() {
+    local source_root="$srcdir/ArchLinux-Packages-$pkgver/package/media-fixtures"
+    local data_dir="$pkgdir/usr/share/media-fixtures"
+
+    install -d "$data_dir"
+    # Ownership comes from the package metadata, so do not copy it from a build tree.
+    # The fixture directories land directly in the data directory: /media-fixtures/audio,
+    # /media-fixtures/images, and so on. The names inside checksums.txt assume that.
+    cp -a --no-preserve=ownership "$source_root/fixtures/." "$data_dir/"
+
+    install -m644 "$source_root/manifest.json" "$data_dir/manifest.json"
+    install -m644 "$source_root/EXPECTED.md" "$data_dir/EXPECTED.md"
+    install -m644 "$source_root/checksums.txt" "$data_dir/checksums.txt"
+    install -m644 "$source_root/ATTRIBUTION.md" "$data_dir/ATTRIBUTION.md"
+    install -m644 "$source_root/TRANSCRIPTS.md" "$data_dir/TRANSCRIPTS.md"
+    install -Dm644 "$source_root/LICENSE" "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+
+    # The tarball checksum covers the archive, not the unpacking, so check the copy.
+    (cd "$data_dir" && sha256sum -c checksums.txt)
+}

@@ -1,0 +1,24 @@
+# shellcheck disable=SC2034,SC2154
+# Maintainer: andersonlizarazo <dev@andersonlizarazo.com>
+
+pkgname=media-fixtures-root
+pkgver=1.0.0
+pkgrel=1
+pkgdesc='Convenience symlinks for the media-fixtures data directory'
+arch=('any')
+url='https://github.com/andersonlizarazo/ArchLinux-Packages'
+license=('CC0-1.0')
+depends=('media-fixtures')
+source=()
+sha256sums=()
+
+package() {
+    ln -s usr/share/media-fixtures "$pkgdir/media-fixtures"
+
+    # Short names for the fixtures whose own names do not describe the photo.
+    install -d "$pkgdir/usr/share/media-fixtures"
+    ln -s images/photo-cat-1995.jpg \
+        "$pkgdir/usr/share/media-fixtures/woman-with-cat.jpg"
+    ln -s images/photo-poppy-red-hills-2016.jpg \
+        "$pkgdir/usr/share/media-fixtures/yellow-poppies.jpg"
+}

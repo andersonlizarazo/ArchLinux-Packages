@@ -4,21 +4,39 @@
 set -eu
 fail=0
 
-if command -v ruff > /dev/null 2>&1; then
+if command -v ruff >/dev/null 2>&1; then
     ruff format --check . || fail=1
     ruff check . || fail=1
 else
     echo "pre-commit: ruff not installed, skipping Python checks" >&2
 fi
 
-if command -v pytest > /dev/null 2>&1; then
+if command -v pytest >/dev/null 2>&1; then
     pytest -q package/media-fixtures/tools || fail=1
 else
     echo "pre-commit: pytest not installed, skipping tests" >&2
 fi
 
-if command -v shellcheck > /dev/null 2>&1; then
+if command -v shfmt >/dev/null 2>&1; then
+    shfmt -ln=sh -i 4 -d scripts/pre-commit || fail=1
+    for pkgbuild in pkgbuild/*/PKGBUILD; do
+        if [ -e "$pkgbuild" ]; then
+            shfmt -ln=bash -i 4 -d "$pkgbuild" || fail=1
+        fi
+    done
+else
+    echo "pre-commit: shfmt not installed, skipping shell formatting" >&2
+fi
+
+if command -v shellcheck >/dev/null 2>&1; then
     shellcheck -s sh scripts/pre-commit || fail=1
+    for pkgbuild in pkgbuild/*/PKGBUILD; do
+        if [ -e "$pkgbuild" ]; then
+            shellcheck -s bash "$pkgbuild" || fail=1
+        fi
+    done
+else
+    echo "pre-commit: shellcheck not installed, skipping shell lint" >&2
 fi
 
 # The hook itself and its README quote the prefix, so skip them.

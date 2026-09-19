@@ -20,7 +20,7 @@ A package that only installs files already provided by another package keeps its
 | --- | --- | --- |
 | `media-fixtures` | `package/media-fixtures/` | Sample media and text files with documented, checked properties, for testing software |
 | `media-fixtures-strings` | `package/media-fixtures-strings/` | Strings that commonly break programs (Big List of Naughty Strings) |
-| `media-fixtures-root` | `pkgbuild/media-fixtures-root/` | Convenience symlink `/media-fixtures` for `media-fixtures` |
+| `media-fixtures-root` | `pkgbuild/media-fixtures-root/` | Convenience symlink `/media-fixtures` for `media-fixtures`, plus two short fixture names |
 
 `media-fixtures-strings` installs into the tree owned by `media-fixtures`, so
 it depends on it. Each package documents itself in the `README.md` beside its
@@ -39,8 +39,9 @@ source.
 
 ## Status
 
-The `media-fixtures` and `media-fixtures-strings` sources are complete. Their
-`pkgbuild/` recipes are not written yet.
+The `media-fixtures` and `media-fixtures-strings` sources are complete, and the
+`pkgbuild/` recipes build all three packages against the `v1.0.0` tag. Build
+commands are in `pkgbuild/README.md`.
 
 ## AI usage
 

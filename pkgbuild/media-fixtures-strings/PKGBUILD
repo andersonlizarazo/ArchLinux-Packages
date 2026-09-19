@@ -1,0 +1,25 @@
+# shellcheck disable=SC2034,SC2154
+# Maintainer: andersonlizarazo <dev@andersonlizarazo.com>
+
+pkgname=media-fixtures-strings
+pkgver=1.0.0
+pkgrel=1
+pkgdesc='Strings that commonly break programs, for testing text handling'
+arch=('any')
+url='https://github.com/andersonlizarazo/ArchLinux-Packages'
+license=('MIT')
+depends=('media-fixtures')
+source=("$pkgname-$pkgver.tar.gz::https://github.com/andersonlizarazo/ArchLinux-Packages/archive/refs/tags/v$pkgver.tar.gz")
+sha256sums=('a2a1d743f29aceb58d8e5dc50c1c5c20817d0643de667acedbc635f1367b854f')
+
+package() {
+    local source_root="$srcdir/ArchLinux-Packages-$pkgver/package/media-fixtures-strings"
+    local data_dir="$pkgdir/usr/share/media-fixtures/strings"
+
+    install -d "$data_dir"
+    install -m644 "$source_root/blns.txt" "$data_dir/blns.txt"
+    install -m644 "$source_root/blns.json" "$data_dir/blns.json"
+
+    # Arch ships /usr/share/licenses/spdx/CC0-1.0.txt but no MIT text.
+    install -Dm644 "$source_root/LICENSE" "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+}

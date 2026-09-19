@@ -1,0 +1,11 @@
+pkgbase = media-fixtures
+	pkgdesc = Sample media and text files with documented properties, for testing software
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/andersonlizarazo/ArchLinux-Packages
+	arch = any
+	license = CC0-1.0
+	source = media-fixtures-1.0.0.tar.gz::https://github.com/andersonlizarazo/ArchLinux-Packages/archive/refs/tags/v1.0.0.tar.gz
+	sha256sums = 53078f3a9ba98726a342a44c2eca0ecb2cfd4f0f65d49cd94df6b0db2b2dfdeb
+
+pkgname = media-fixtures

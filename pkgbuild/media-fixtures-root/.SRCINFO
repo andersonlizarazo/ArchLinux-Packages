@@ -1,0 +1,10 @@
+pkgbase = media-fixtures-root
+	pkgdesc = Convenience symlinks for the media-fixtures data directory
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/andersonlizarazo/ArchLinux-Packages
+	arch = any
+	license = CC0-1.0
+	depends = media-fixtures
+
+pkgname = media-fixtures-root
