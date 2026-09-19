@@ -1,0 +1,1054 @@
+{
+  "count": 54,
+  "fixtures": [
+    {
+      "bytes": 243493,
+      "description": "Balloon photograph of the Giza pyramids by Eduard Spelterini (1904). Real grain and tone, no embedded metadata.",
+      "kind": "image",
+      "origin": "commons",
+      "path": "images/photo-giza-aerial-1904.jpg",
+      "properties": {
+        "bytes": 243493,
+        "colorspace": "Gray",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 939,
+        "type": "Grayscale",
+        "width": 1280
+      },
+      "sha256": "405669cde5d75bb8f9a29dce123e78774893a9116759c5ca34e433db31f0bc11",
+      "source": {
+        "author": "Eduard Spelterini",
+        "changes": "Resized to fit 1280 px, JPEG quality 82.",
+        "description": "Pyramids of Gizah , Egypt . From left to right: Menkaure, Kephren, Cheops. Photographed from a balloon from about 600 metres above ground.",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Spelterini Pyramids.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Spelterini_Pyramids.jpg"
+      }
+    },
+    {
+      "bytes": 56559,
+      "description": "Studio portrait of Élisabeth de Caraman-Chimay (Paul Nadar, 1895), grayscale JPEG. Portrait orientation and skin detail for resampling tests.",
+      "kind": "image",
+      "origin": "commons",
+      "path": "images/photo-portrait-1895.jpg",
+      "properties": {
+        "bytes": 56559,
+        "colorspace": "Gray",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 900,
+        "type": "Grayscale",
+        "width": 665
+      },
+      "sha256": "a7f8ff6bda29d7c57ed2a312efed24b6accd2eb289da6bd2cdcec1be98906e2d",
+      "source": {
+        "author": "Paul Nadar",
+        "changes": "Resized to fit 900 px, JPEG quality 82.",
+        "description": "La comtesse Élisabeth de Riquet de Caraman , née Marie Joséphine Anatole Louise Élisabeth de Riquet de Caraman-Chimay, est l'épouse du comte Henry Greffulhe (1848-1932). Elle est née à Paris , le 11 juillet 1860 et décédée à Genève ( Suisse ), le 21 août 1952.",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Élisabeth de Caraman-Chimay (1860-1952) A.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:%C3%89lisabeth_de_Caraman-Chimay_(1860-1952)_A.jpg"
+      }
+    },
+    {
+      "bytes": 86739,
+      "description": "Hand-coloured lithograph of Melanopareia maximiliani (1847). Fine detail and flat colour areas.",
+      "kind": "image",
+      "origin": "commons",
+      "path": "images/lithograph-bird-1847.jpg",
+      "properties": {
+        "bytes": 86739,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 981,
+        "type": "TrueColor",
+        "width": 1100
+      },
+      "sha256": "0fa22317cbf8b85c9a2154f7512e49d4efb687c2fbacc223e38a2f1691f8900d",
+      "source": {
+        "author": "in Alcide Dessalines d'Orbigny",
+        "changes": "Resized to fit 1100 px, JPEG quality 82.",
+        "description": "« Synallaxis torquata » = Melanopareia maximiliani ( Olive-crowned Crescentchest )",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Melanopareia maximiliani 1847.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Melanopareia_maximiliani_1847.jpg"
+      }
+    },
+    {
+      "bytes": 161861,
+      "description": "Photograph of Socks the Cat with Hillary Rodham Clinton (1995). Fur detail, a human face, and a busy background.",
+      "kind": "image",
+      "origin": "commons",
+      "path": "images/photo-cat-1995.jpg",
+      "properties": {
+        "bytes": 161861,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 789,
+        "type": "TrueColor",
+        "width": 900
+      },
+      "sha256": "1fbe1a58523c0f428e6abf4cac4fee0fe95ca759bd893784ee34ce8e7eb34342",
+      "source": {
+        "author": "The U.S. National Archives",
+        "changes": "Resized to fit 900 px, JPEG quality 82.",
+        "description": "Title: Photograph of First Lady Hillary Rodham Clinton and Socks the Cat: 12/13/1995 Creator: President (1993-2001 : Clinton). White House Photograph Office. (01/20/1993 - 01/20/2001) Types of Archival Materials: Photographs and other Graphic Materials Contacts: William J. Clinton Library (NLWJC), 1200 President Clinton Avenue, Little Rock, AR 72201. Phone: 501-244-2877; Fax: 501-244-2881; Email: clinton.library@nara.gov Production Dates: 12/13/1995 From: Series: Photographs Relating to the Clinton Administration, compiled 01/20/1993 - 01/20/2001 Collection WJC-WHPO: Photographs of the White House Photograph Office (Clinton Administration), 01/20/1993 - 01/20/2001 Persistent URL: arcweb.archives.gov/arc/action/ExternalIdSearch?id=6036921 Access Restriction(s): Unrestricted Use Restriction(s): Unrestricted",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Photograph of First Lady Hillary Rodham Clinton and Socks the Cat- 12-13-1995 (6461521265) (cropped).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_First_Lady_Hillary_Rodham_Clinton_and_Socks_the_Cat-_12-13-1995_(6461521265)_(cropped).jpg"
+      }
+    },
+    {
+      "bytes": 213419,
+      "description": "Dense bloom of yellow poppies in the Red Hills, Tuolumne County, California (2016). Saturated yellow flowers against green spring grass.",
+      "kind": "image",
+      "origin": "commons",
+      "path": "images/photo-poppy-red-hills-2016.jpg",
+      "properties": {
+        "bytes": 213419,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 600,
+        "type": "TrueColor",
+        "width": 900
+      },
+      "sha256": "00053fb9806cdf8ea6e6f2dfe5ebd161e7d292e3b006cebd1d2bb04ad7750590",
+      "source": {
+        "author": "blmcalifornia",
+        "changes": "Resized to fit 900 px, JPEG quality 82.",
+        "description": "The Red Hills is a region of 7,100 acres of public land located near the intersection of State Highways 49 and 120, just south of the historic town of Chinese Camp in Tuolumne County. The Red Hills are noticeably different from the surrounding countryside. The serpentine-based soils in the area support a unique assemblage of plant species. Included among the thorny buckbrush and foothill pine is a rich variety of annual wildflowers, which put on a showy display every spring. In the Red Hills buckbrush and other shrubs provide browse and seeds for small populations of mammals, including mule deer, jackrabbits and rodents. Coyotes, bobcats and fox can also be found in the Red Hills. Approximately 88 bird species have been observed in the Red Hills. Some common species include mourning dove, acorn woodpecker, ash-throated flycatcher, scrub jay, wrentit, plain titmouse, bushtit, Bewick's wren and house finch. Valley quail and mourning doves are the major game birds in the Red Hills. An abundant insect population supports insectivorous birds including western kingbirds, ash- throated flycatcher, tree swallows, barn swallows, black phoebes and others. Raptors include the red-tailed hawk, Cooper's hawk, prairie falcon and great horned owl. Fish-eating birds seen in the Red Hills include the belted kingfisher and great blue heron. Roadrunners can also be found. Four sensitive species of animals are known from the Red Hills. Wintering bald eagles roost along the shores of Don Pedro Reservoir and have been observed where Six Bit Gulch enters the lake. As many as 20 bald eagles have been sighted during the winter on the shores of Don Pedro Reservoir, roosting in stands of foothill pines. Photo by Patrick Congdon, BLM volunteer.",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Poppy bloom in the Red Hills (27779604147).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Poppy_bloom_in_the_Red_Hills_(27779604147).jpg"
+      }
+    },
+    {
+      "bytes": 49044,
+      "description": "Fractal colour with a vertical alpha fade: alpha channel and compositing.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/gradient-alpha-256.png",
+      "properties": {
+        "bytes": 49044,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 256,
+        "type": "TrueColorAlpha",
+        "width": 256
+      },
+      "sha256": "0f176b9f68d5b1f1430e01fa34d6c8a27a5626c8d5194a27c576bc604380583c"
+    },
+    {
+      "bytes": 273,
+      "description": "16-bit single-channel grayscale gradient: bit depth.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/gray-16bit-128.png",
+      "properties": {
+        "bytes": 273,
+        "colorspace": "Gray",
+        "depth": 16,
+        "format": "PNG",
+        "frames": 1,
+        "height": 128,
+        "type": "Grayscale",
+        "width": 128
+      },
+      "sha256": "e8b5b94ebd013a9061284e54f3db3971e5ecba9c4f293b8b5387b61c4a3b4fb2"
+    },
+    {
+      "bytes": 1346,
+      "description": "Indexed PNG with a 16-colour palette: palette handling.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/palette-16colors-64.png",
+      "properties": {
+        "bytes": 1346,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 64,
+        "type": "Palette",
+        "width": 64
+      },
+      "sha256": "af6d21c69c54bdb5f6c034214f4aba342d3f938b502155849462a03e17ffd646"
+    },
+    {
+      "bytes": 1717,
+      "description": "Ten-frame looping GIF: frame delays and disposal.",
+      "kind": "animation",
+      "origin": "generated",
+      "path": "images/animation-10frames.gif",
+      "properties": {
+        "bytes": 1717,
+        "codec": "gif",
+        "frames": 10,
+        "height": 64,
+        "width": 64
+      },
+      "sha256": "8806887e57869941aef7a6e2096801cc53574beb7f853e66ae83a76180d4623c"
+    },
+    {
+      "bytes": 14597,
+      "description": "Same ten frames as an animated PNG (APNG).",
+      "kind": "animation",
+      "origin": "generated",
+      "path": "images/animation-10frames.png",
+      "properties": {
+        "bytes": 14597,
+        "codec": "apng",
+        "frames": 10,
+        "height": 64,
+        "width": 64
+      },
+      "sha256": "3f5090360eccf6a37f8638b89ba7e623570ec2d065b32518f5c1d1a6702a91e8"
+    },
+    {
+      "bytes": 6820,
+      "description": "Three-page TIFF: multi-page readers and page selection.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/multipage-3pages.tiff",
+      "properties": {
+        "bytes": 6820,
+        "colorspace": "Gray",
+        "depth": 16,
+        "format": "TIFF",
+        "frames": 3,
+        "height": 150,
+        "type": "Grayscale",
+        "width": 200
+      },
+      "sha256": "d9ba5b93d15c6a28184e24ea14871d3b9ac05ebf45aa383d8412e88016af3d1e"
+    },
+    {
+      "bytes": 2343,
+      "description": "CMYK JPEG: subtractive colourspace conversion.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/cmyk-200x200.jpg",
+      "properties": {
+        "bytes": 2343,
+        "colorspace": "CMYK",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 200,
+        "type": "ColorSeparation",
+        "width": 200
+      },
+      "sha256": "1a9d62103471a9d9f8ae4a40aae4080efdeb23e94306d5fcd54d9286428d89c4"
+    },
+    {
+      "bytes": 107407,
+      "description": "4000x3000 JPEG: resizing, tiling and memory limits.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/gradient-4000x3000.jpg",
+      "properties": {
+        "bytes": 107407,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 3000,
+        "type": "TrueColor",
+        "width": 4000
+      },
+      "sha256": "64573441ce1aa74351566a9ba72e21537365255c9280f747e0cfef8ef67a9e59"
+    },
+    {
+      "bytes": 131,
+      "description": "Single pixel: degenerate geometry, resize edge case.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/pixel-1x1.png",
+      "properties": {
+        "bytes": 131,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 1,
+        "type": "Palette",
+        "width": 1
+      },
+      "sha256": "973ba8138d09e8525a24c187245ae26be9bf90d7268c1619931a43abb7408d22"
+    },
+    {
+      "bytes": 9751,
+      "description": "Rendered text: glyph coverage and OCR testing.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/text-rendered-480x120.png",
+      "properties": {
+        "bytes": 9751,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 120,
+        "type": "Grayscale",
+        "width": 480
+      },
+      "sha256": "ef03baf2e9865c0c820ebfdd271747ed6cb65ec8de6613257676a9c78c8a2a0d",
+      "transcript": "The quick brown fox 0123456789"
+    },
+    {
+      "bytes": 43940,
+      "description": "One sentence drawn at 8, 12, 18, 28, 48 and 72 points: legibility, line height and OCR at several scales.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/text-sizes-chart-640x360.png",
+      "properties": {
+        "bytes": 43940,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 360,
+        "type": "Grayscale",
+        "width": 640
+      },
+      "sha256": "e7a0e4908f85ed3b8d4acf844b6ae97cc391d1fcabe265170cbbbe805e786697",
+      "transcript": "The quick brown fox jumps over the lazy dog. (8 pt)\nThe quick brown fox jumps over the lazy dog. (12 pt)\nThe quick brown fox jumps over the lazy dog. (18 pt)\nThe quick brown fox jumps over the lazy dog. (28 pt)\nThe quick brown fox\nThe quick"
+    },
+    {
+      "bytes": 928,
+      "description": "Lossy WebP: modern still-image decoding.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/webp-lossy-256.webp",
+      "properties": {
+        "bytes": 928,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "WEBP",
+        "frames": 1,
+        "height": 256,
+        "type": "TrueColor",
+        "width": 256
+      },
+      "sha256": "67cb3423512eaeec6f15b69ed43677331b606011d074dc3330d64ca9136bd892"
+    },
+    {
+      "bytes": 76,
+      "description": "Lossless WebP with alpha.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/webp-alpha-lossless-256.webp",
+      "properties": {
+        "bytes": 76,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "WEBP",
+        "frames": 1,
+        "height": 256,
+        "type": "PaletteAlpha",
+        "width": 256
+      },
+      "sha256": "9c706fd07184c56e88930f74b76d774be8ee670c428f48df0f9b1039e77f883e"
+    },
+    {
+      "bytes": 370,
+      "description": "AVIF: HEIF-family container, delegate dependent.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/avif-q60-256x192.avif",
+      "properties": {
+        "bytes": 370,
+        "colorspace": "sRGB",
+        "depth": 12,
+        "format": "AVIF",
+        "frames": 1,
+        "height": 192,
+        "type": "TrueColor",
+        "width": 256
+      },
+      "sha256": "2c3489d680c469274e2eb370d198295d6b906cdea68838c2ab98a298d4f68902"
+    },
+    {
+      "bytes": 12333,
+      "description": "JPEG XL: newest still-image codec in the set.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/jxl-q90-256x192.jxl",
+      "properties": {
+        "bytes": 12333,
+        "colorspace": "sRGB",
+        "depth": 16,
+        "format": "JXL",
+        "frames": 1,
+        "height": 192,
+        "type": "TrueColor",
+        "width": 256
+      },
+      "sha256": "41ef0ecc6abd18ca5043df12b88e6cf1ecf802f7d2335c101c1405e998414f68"
+    },
+    {
+      "bytes": 641,
+      "description": "Hand-written SVG: vector rasterisation and text.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "images/vector-shapes-300x200.svg",
+      "properties": {
+        "bytes": 641,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "SVG",
+        "frames": 1,
+        "height": 200,
+        "type": "TrueColorAlpha",
+        "width": 300
+      },
+      "sha256": "4b25eaf820022dd3d6f7fda594ca048f267db9105e42fbe865152e24e8577302"
+    },
+    {
+      "bytes": 264644,
+      "description": "Three seconds of violin, uncompressed mono PCM.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/music-3s-44k-mono.wav",
+      "properties": {
+        "audio_codec": "pcm_s16le",
+        "audio_tracks": 1,
+        "bytes": 264644,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 3.0,
+        "format": "wav",
+        "sample_rate": 44100,
+        "subtitle_tracks": 0
+      },
+      "sha256": "18b32421026181c5f5ce80fa2dad5b890bdeae806830e2233ba9168ab82e4638",
+      "source": {
+        "author": "Bach",
+        "changes": "Trimmed to 3 s, downmixed to mono, 44.1 kHz PCM.",
+        "description": "Bach Partita 3 for Violin Prelude",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Bach Partita 3 for Violin Prelude 01.wav",
+        "url": "https://commons.wikimedia.org/wiki/File:Bach_Partita_3_for_Violin_Prelude_01.wav"
+      }
+    },
+    {
+      "bytes": 167313,
+      "description": "FLAC with Vorbis comments and attached cover art.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/music-3s-tagged.flac",
+      "properties": {
+        "audio_codec": "flac",
+        "audio_tracks": 1,
+        "bytes": 167313,
+        "channels": 2,
+        "cover_art": 1,
+        "duration_s": 3.0,
+        "format": "flac",
+        "sample_rate": 44100,
+        "subtitle_tracks": 0
+      },
+      "sha256": "04888c803766aaa9bc8b939145e09a8639905e66ef7e6696154ca97f7feb4911",
+      "source": {
+        "author": "Bach",
+        "changes": "Trimmed to 3 s, encoded to FLAC, tagged, cover art embedded.",
+        "description": "Bach Partita 3 for Violin Prelude",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Bach Partita 3 for Violin Prelude 01.wav",
+        "url": "https://commons.wikimedia.org/wiki/File:Bach_Partita_3_for_Violin_Prelude_01.wav"
+      }
+    },
+    {
+      "bytes": 72115,
+      "description": "Ogg Vorbis encode of the same excerpt.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/music-5s-vorbis.ogg",
+      "properties": {
+        "audio_codec": "vorbis",
+        "audio_tracks": 1,
+        "bytes": 72115,
+        "channels": 2,
+        "cover_art": 0,
+        "duration_s": 5.0,
+        "format": "ogg",
+        "sample_rate": 44100,
+        "subtitle_tracks": 0
+      },
+      "sha256": "4484514ccb1ad668a1856723f002b6a6557407c160a611ae4af858a1ccc139c7",
+      "source": {
+        "author": "Bach",
+        "changes": "Trimmed to 5 s, re-encoded to Ogg Vorbis q4.",
+        "description": "Bach Partita 3 for Violin Prelude",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Bach Partita 3 for Violin Prelude 01.wav",
+        "url": "https://commons.wikimedia.org/wiki/File:Bach_Partita_3_for_Violin_Prelude_01.wav"
+      }
+    },
+    {
+      "bytes": 77300,
+      "description": "MP3 with ID3v2 tags and attached cover art.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/music-5s-mp3-tagged.mp3",
+      "properties": {
+        "audio_codec": "mp3",
+        "audio_tracks": 1,
+        "bytes": 77300,
+        "channels": 2,
+        "cover_art": 1,
+        "duration_s": 5.0,
+        "format": "mp3",
+        "sample_rate": 44100,
+        "subtitle_tracks": 0
+      },
+      "sha256": "f08d72a8dccaca6e723d9c49c5cb2508310f568e7fe4028df4b0367fe9cff69a",
+      "source": {
+        "author": "Bach",
+        "changes": "Trimmed to 5 s, encoded to MP3 q4, tagged, cover art embedded.",
+        "description": "Bach Partita 3 for Violin Prelude",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Bach Partita 3 for Violin Prelude 01.wav",
+        "url": "https://commons.wikimedia.org/wiki/File:Bach_Partita_3_for_Violin_Prelude_01.wav"
+      }
+    },
+    {
+      "bytes": 46681,
+      "description": "Opus at 48 kHz stereo: modern speech and music codec.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/music-5s-48k-stereo.opus",
+      "properties": {
+        "audio_codec": "opus",
+        "audio_tracks": 1,
+        "bytes": 46681,
+        "channels": 2,
+        "cover_art": 0,
+        "duration_s": 5.006,
+        "format": "ogg",
+        "sample_rate": 48000,
+        "subtitle_tracks": 0
+      },
+      "sha256": "aa251380cdf9f5737ad1b05141bd161586a34a57eb0684585c3beccee085f103",
+      "source": {
+        "author": "Bach",
+        "changes": "Trimmed to 5 s, upmixed to stereo, Opus 64 kbit/s.",
+        "description": "Bach Partita 3 for Violin Prelude",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Bach Partita 3 for Violin Prelude 01.wav",
+        "url": "https://commons.wikimedia.org/wiki/File:Bach_Partita_3_for_Violin_Prelude_01.wav"
+      }
+    },
+    {
+      "bytes": 34805,
+      "description": "Neil Armstrong's first words from the Moon (NASA, 1969), 16 kHz mono. Human speech over a radio link.",
+      "kind": "audio",
+      "origin": "commons",
+      "path": "audio/speech-armstrong-1969.ogg",
+      "properties": {
+        "audio_codec": "vorbis",
+        "audio_tracks": 1,
+        "bytes": 34805,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 7.699,
+        "format": "ogg",
+        "sample_rate": 16000,
+        "subtitle_tracks": 0
+      },
+      "sha256": "28aec2dffcf5c09a324aeae3a8b6f7935cafe3fc5c0b1e2e07c1e100644c4d85",
+      "source": {
+        "author": "NASA",
+        "changes": "Re-encoded to 16 kHz mono Vorbis, no trimming.",
+        "description": "Famous speech from Neil Armstrong : At 2:56 UTC on July 21, 1969, Armstrong made his descent to the Moon 's surface and spoke his famous line \"That's one small step for [a] man, one giant leap for mankind\" exactly six and a half hours after landing .",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Phrase de Neil Armstrong.oga",
+        "url": "https://commons.wikimedia.org/wiki/File:Phrase_de_Neil_Armstrong.oga"
+      },
+      "transcript": "That's one small step for [a] man, one giant leap for mankind."
+    },
+    {
+      "bytes": 166938,
+      "description": "Synthesized speech at 8 kHz: narrowband telephone audio with fixed wording.",
+      "kind": "audio",
+      "origin": "generated",
+      "path": "audio/speech-synthetic-8k.wav",
+      "properties": {
+        "audio_codec": "pcm_s16le",
+        "audio_tracks": 1,
+        "bytes": 166938,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 10.431,
+        "format": "wav",
+        "sample_rate": 8000,
+        "subtitle_tracks": 0
+      },
+      "sha256": "64fbdbe7516a1196e6679b92da2e62175d845a52169622fa0e20efcd98823680",
+      "transcript": "The quick brown fox jumps over the lazy dog. Numbers: zero one two three. This recording is synthesized, so its wording never changes."
+    },
+    {
+      "bytes": 60458,
+      "description": "Two-second test pattern with a 440 Hz tone, H.264/AAC.",
+      "kind": "video",
+      "origin": "generated",
+      "path": "video/testsrc-2s-h264-aac.mp4",
+      "properties": {
+        "audio_codec": "aac",
+        "audio_tracks": 1,
+        "bytes": 60458,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 2.0,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "height": 240,
+        "sample_rate": 44100,
+        "subtitle_tracks": 0,
+        "video_codec": "h264",
+        "width": 320
+      },
+      "sha256": "d860559ca939a27a2ce2b417808e7abfe9819ca9881641052c6d8fed07550f27"
+    },
+    {
+      "bytes": 67329,
+      "description": "Same pattern as WebM with VP9 video and Opus audio.",
+      "kind": "video",
+      "origin": "generated",
+      "path": "video/testsrc-2s-vp9-opus.webm",
+      "properties": {
+        "audio_codec": "opus",
+        "audio_tracks": 1,
+        "bytes": 67329,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 2.008,
+        "format": "matroska,webm",
+        "height": 240,
+        "sample_rate": 48000,
+        "subtitle_tracks": 0,
+        "video_codec": "vp9",
+        "width": 320
+      },
+      "sha256": "452e5df908d6703a51766f9ec7959c76720e79846b707d3225903f6a734e9531"
+    },
+    {
+      "bytes": 64799,
+      "description": "Video with no audio stream at all: stream-count mismatch.",
+      "kind": "video",
+      "origin": "generated",
+      "path": "video/testsrc-3s-silent.mp4",
+      "properties": {
+        "audio_tracks": 0,
+        "bytes": 64799,
+        "cover_art": 0,
+        "duration_s": 3.0,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "height": 240,
+        "subtitle_tracks": 0,
+        "video_codec": "h264",
+        "width": 320
+      },
+      "sha256": "a8cb0f0118fe2f319846989cc560868cdca598d2bac675035922841366ea6dce"
+    },
+    {
+      "bytes": 189417,
+      "description": "Five seconds with the frame number and timestamp burned in: frame extraction and seeking can be checked by eye.",
+      "kind": "video",
+      "origin": "generated",
+      "path": "video/counter-5s-h264.mp4",
+      "properties": {
+        "audio_codec": "aac",
+        "audio_tracks": 1,
+        "bytes": 189417,
+        "channels": 2,
+        "cover_art": 0,
+        "duration_s": 5.0,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "height": 270,
+        "sample_rate": 44100,
+        "subtitle_tracks": 0,
+        "video_codec": "h264",
+        "width": 480
+      },
+      "sha256": "4aca0210d5ea61e834c2e1a25ae53fa93de95a8ee81e4c585233230ed3082032"
+    },
+    {
+      "bytes": 80598,
+      "description": "Four seconds of the NASA/JPL PIA10149 animation: Europa in cutaway view orbiting Jupiter. Rendered imagery without audio, for encoding tests.",
+      "kind": "video",
+      "origin": "commons",
+      "path": "video/nasa-pia10149-4s.mp4",
+      "properties": {
+        "audio_tracks": 0,
+        "bytes": 80598,
+        "cover_art": 0,
+        "duration_s": 4.0,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "height": 360,
+        "subtitle_tracks": 0,
+        "video_codec": "h264",
+        "width": 640
+      },
+      "sha256": "90559302fa87ba5cd3c51b2b04c816bdab41fb7a35474546dfdbab935117526f",
+      "source": {
+        "author": "NASA/JPL",
+        "changes": "Trimmed to 4 s, scaled to 640 px, re-encoded to H.264.",
+        "description": "In this movie Europa is seen in a cutaway view through two cycles of its 3.5 day orbit about the giant planet Jupiter. Like Earth, Europa is thought to have an iron core, a rocky mantle and a surface ocean of salty water. Unlike on Earth, however, this ocean is deep enough to cover the whole moon, and being far from the sun, the ocean surface is globally frozen over. Europa's orbit is eccentric, which means as it travels around Jupiter, large tides, raised by Jupiter, rise and fall. Jupiter's position relative to Europa is also seen to librate, or wobble, with the same period. This tidal kneading causes frictional heating within Europa, much in the same way a paper clip bent back and forth can get hot to the touch, as illustrated by the red glow in the interior of Europa's rocky mantle and in the lower, warmer part of its ice shell. This tidal heating is what keeps Europa's ocean liquid and could prove critical to the survival of simple organisms within the ocean, if they exist. The giant planet Jupiter is now shown to be rotating from west to east, though more slowly than its actual rate.",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:NASA-JPL - PIA10149 (pd).ogv",
+        "url": "https://commons.wikimedia.org/wiki/File:NASA-JPL_-_PIA10149_(pd).ogv"
+      }
+    },
+    {
+      "bytes": 48805,
+      "description": "Four seconds of the 2009 Sarychev Peak eruption seen from the ISS: real footage without audio.",
+      "kind": "video",
+      "origin": "commons",
+      "path": "video/sarychev-eruption-4s.webm",
+      "properties": {
+        "audio_tracks": 0,
+        "bytes": 48805,
+        "cover_art": 0,
+        "duration_s": 4.0,
+        "format": "matroska,webm",
+        "height": 480,
+        "subtitle_tracks": 0,
+        "video_codec": "vp9",
+        "width": 480
+      },
+      "sha256": "ab1cce68b00846e0abd712fe46fc378e628b18912a3ced5bc440ec4a55bcd182",
+      "source": {
+        "author": "ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center, NASA.",
+        "changes": "Trimmed to 4 s, scaled to 480 px, re-encoded to VP9.",
+        "description": "A fortuitous orbit of the International Space Station allowed the astronauts this view of Sarychev Volcano ( Kuril Islands , Russia northeast of Japan ) in an early stage of eruption on June 12, 2009. Sarychev Peak is one of the most active volcanoes in the Kuril Island chain, and it is located on the northwestern end of Matua Island . View faces west.",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:Sarychev Peak eruption on 12 June 2009, oblique satellite view.ogv",
+        "url": "https://commons.wikimedia.org/wiki/File:Sarychev_Peak_eruption_on_12_June_2009,_oblique_satellite_view.ogv"
+      }
+    },
+    {
+      "bytes": 120311,
+      "description": "First six seconds of a CDC staff interview: a person talking to camera, for speech and face detection. The source page quotes the opening words.",
+      "kind": "video",
+      "origin": "commons",
+      "path": "video/speaking-cdc-interview-6s.mp4",
+      "properties": {
+        "audio_codec": "aac",
+        "audio_tracks": 1,
+        "bytes": 120311,
+        "channels": 2,
+        "cover_art": 0,
+        "duration_s": 6.006,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "height": 360,
+        "sample_rate": 48000,
+        "subtitle_tracks": 0,
+        "video_codec": "h264",
+        "width": 640
+      },
+      "sha256": "ba9e9297f5a8361c6a8b397a6adc7b970aa30e4e740285a17f6e4a4b0cbc9187",
+      "source": {
+        "author": "Centers for Disease Control and Prevention",
+        "changes": "Trimmed to the first 6 s, scaled to 640 px, re-encoded to H.264/AAC.",
+        "description": "I’ve been with CDC for 14 years. I’m an epidemiologist. I work in CDC’s Division of Vector Borne Diseases. We work to understand the diseases that people get from ticks, fleas, and mosquitoes. I think, if I weren’t working at CDC, I’d be travelling around the world with my husband and two young girls, possibly even working on humanitarian efforts. I think exposing kids at a young age to the challenges that people around the world face each day is critical to creating the compassionate adults that will work to make the world a better place. One of the diseases I work on is plague. The word ‘plague’ elicits both fear and intrigue, even today, nearly 700 years after plague devastated the population of Europe in the 1300s. What many people may not realize is that plague still exists today in Asia, Africa, even here in the U.S. We get questions from all over the world about plague. Several years ago, we got a question from a fourth grader, wanting to interview someone about plague for a school project. I had so much fun answering that one. When I called his house and his mom answered, she was shocked that someone from CDC would actually call and talk to her son about plague. When he got on the phone, he was so nervous but I answered his questions and I told him a little bit more about plague…about why it’s been relevant to human history and why it’s still a threat to human health today. I love my job because it challenges me…both as a person and as a scientist, and I feel like I’m making a difference in improving people’s health, both here in the U.S. and around the world. I’m Kiersten Kugeler and I am CDC! Comments on this video are allowed in accordance with our comment policy: https://www.cdc.gov/SocialMedia/Tools/CommentPolicy.html This video can also be viewed at https://www.cdc.gov/about/videos/IamCDC/IamCdcKugelerExt/IamCdcKugeler_EXT.wmv",
+        "license": "Public domain",
+        "license_url": "",
+        "title": "File:I Am CDC - Kiersten Kugeler.webm",
+        "url": "https://commons.wikimedia.org/wiki/File:I_Am_CDC_-_Kiersten_Kugeler.webm"
+      },
+      "transcript": "I've been with CDC for 14 years. I'm an epidemiologist. I work in CDC's Division of Vector Borne Diseases."
+    },
+    {
+      "bytes": 129616,
+      "description": "Matroska with two audio tracks (tagged eng and jpn) and one subtitle track: track selection and metadata.",
+      "kind": "video",
+      "origin": "generated",
+      "path": "video/multitrack-2audio-1subtitle.mkv",
+      "properties": {
+        "audio_codec": "opus",
+        "audio_tracks": 2,
+        "bytes": 129616,
+        "channels": 1,
+        "cover_art": 0,
+        "duration_s": 4.008,
+        "format": "matroska,webm",
+        "height": 240,
+        "sample_rate": 48000,
+        "subtitle_tracks": 1,
+        "video_codec": "h264",
+        "width": 320
+      },
+      "sha256": "69d0762032a9c8ae975e89e05ac4948f7f591028f71a6d50956d65d285eda6cc"
+    },
+    {
+      "bytes": 98,
+      "description": "Two-cue SubRip subtitle file.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "video/subtitles-2cues.srt",
+      "properties": {
+        "bytes": 98,
+        "lines": 7
+      },
+      "sha256": "1e235a8eb81cd6ae11ab56f907a277882c6d8e62b8e11cc6102d91c327d0f683",
+      "transcript": "First cue line.\nSecond cue line."
+    },
+    {
+      "bytes": 102,
+      "description": "The same two cues as WebVTT.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "video/subtitles-2cues.vtt",
+      "properties": {
+        "bytes": 102,
+        "lines": 7
+      },
+      "sha256": "a97200968e5c6497a54789e2d85ed863ef410b7fb832bfdc53820e3748936df5",
+      "transcript": "First cue line.\nSecond cue line."
+    },
+    {
+      "bytes": 635,
+      "description": "One line per Unicode class: CJK, emoji, RTL, combining marks, zero-width characters, fullwidth forms.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/unicode-torture.txt",
+      "properties": {
+        "bytes": 635,
+        "lines": 11
+      },
+      "sha256": "9d4b9b433b7470ca13e2ea7cb347fa2f44d6650e51baddb74482a7afceb09759"
+    },
+    {
+      "bytes": 638,
+      "description": "The Unicode torture lines behind a UTF-8 byte order mark.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/unicode-torture-bom.txt",
+      "properties": {
+        "bytes": 638,
+        "lines": 11
+      },
+      "sha256": "321f1e853da788894bf2345282f054caf4d934dd43bf06f10fa829915e5f050c"
+    },
+    {
+      "bytes": 37,
+      "description": "CRLF line endings: Windows text handling.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/crlf-lines.txt",
+      "properties": {
+        "bytes": 37,
+        "lines": 3
+      },
+      "sha256": "56b14fbccf8b720464187c1beea5f4a37e41c3d87cad95dcbe4183092477885e"
+    },
+    {
+      "bytes": 51,
+      "description": "Last line has no terminator: line-reader behaviour.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/no-final-newline.txt",
+      "properties": {
+        "bytes": 51,
+        "lines": 2
+      },
+      "sha256": "62f5540a2b597991332cb2969469e8f2f06ae269572a8808d1819a74e69ebe4c"
+    },
+    {
+      "bytes": 30,
+      "description": "Latin-1 bytes, not valid UTF-8: encoding detection.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/latin1-bytes.txt",
+      "properties": {
+        "bytes": 30,
+        "lines": 1
+      },
+      "sha256": "f4ae700567d82b2ad0453e9d4906c3ce9bc81df9c93458899ca6bee84cde835e"
+    },
+    {
+      "bytes": 25,
+      "description": "Embedded NUL bytes: breaks naive line handling.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/nul-bytes.txt",
+      "properties": {
+        "bytes": 25,
+        "lines": 2
+      },
+      "sha256": "b5d105292ea137701caee330c5774d0e447c26f5744c8d7e2c784fd89a3f4096"
+    },
+    {
+      "bytes": 100001,
+      "description": "One 100000-byte line: buffer and wrapping limits.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "text/long-line-100k.txt",
+      "properties": {
+        "bytes": 100001,
+        "lines": 1
+      },
+      "sha256": "167b3452f049e320b02a367cf5a8a6fb990d3f318d7375e05631a8ca8153b696"
+    },
+    {
+      "bytes": 187,
+      "description": "Small PNG whose name contains spaces.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "odd/name with spaces.png",
+      "properties": {
+        "bytes": 187,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 32,
+        "type": "Palette",
+        "width": 32
+      },
+      "sha256": "208c43ab54c379165d217fd1bd7e96feafa52ca8a9bbf43fc86b459f3e165232"
+    },
+    {
+      "bytes": 175,
+      "description": "Name starting with a dash: argument parsing trap.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "odd/-dash-prefixed.png",
+      "properties": {
+        "bytes": 175,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 24,
+        "type": "Palette",
+        "width": 40
+      },
+      "sha256": "3546188259b7a502ed18da17f18d6e7ffb87179a0c288cc278a6222c668e921c"
+    },
+    {
+      "bytes": 46,
+      "description": "Cyrillic file name: non-ASCII path handling.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "odd/имя-кириллица.txt",
+      "properties": {
+        "bytes": 46,
+        "lines": 1
+      },
+      "sha256": "aa3e4e35acb6e265cb200d650703695d88ad9e3fe5f4350dfdf90cde989e5f04"
+    },
+    {
+      "bytes": 39,
+      "description": "File name with an emoji outside the basic plane.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "odd/emoji-🎬-clapper.txt",
+      "properties": {
+        "bytes": 39,
+        "lines": 1
+      },
+      "sha256": "5ee205c8eedf6766eaa936cab4e631b2b6657c0528a65dbb2e9bc51b9f1a0e8f"
+    },
+    {
+      "bytes": 186,
+      "description": "PNG bytes behind a .jpg extension: sniffing by content.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "odd/png-content-named-jpg.jpg",
+      "properties": {
+        "bytes": 186,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "PNG",
+        "frames": 1,
+        "height": 48,
+        "type": "Palette",
+        "width": 48
+      },
+      "sha256": "bd73bb142a9af2c934ab5fbbc77d2fc40b61785ad8a7e941799623ea02644a58"
+    },
+    {
+      "bytes": 2048,
+      "description": "First 2048 bytes of a JPEG: damaged input handling.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "odd/truncated-jpeg.jpg",
+      "properties": {
+        "bytes": 2048,
+        "lines": 4
+      },
+      "sha256": "1a74b96f196f2016d484509f0da280b6cd51ddcc6c40589cbe9d1aa55d735e19"
+    },
+    {
+      "bytes": 0,
+      "description": "Empty file: the degenerate input.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "odd/zero-bytes.bin",
+      "properties": {
+        "bytes": 0,
+        "lines": 0
+      },
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 581,
+      "description": "JPEG bytes with no extension: content detection alone.",
+      "kind": "image",
+      "origin": "generated",
+      "path": "odd/no-extension",
+      "properties": {
+        "bytes": 581,
+        "colorspace": "sRGB",
+        "depth": 8,
+        "format": "JPEG",
+        "frames": 1,
+        "height": 80,
+        "type": "Palette",
+        "width": 120
+      },
+      "sha256": "183eb3899bfee73fc9023309c79561bd91f9e219e073349b2360ea1e02483d4c"
+    },
+    {
+      "bytes": 42,
+      "description": "Directory name with spaces.",
+      "kind": "text",
+      "origin": "generated",
+      "path": "odd/dir with spaces/inner.txt",
+      "properties": {
+        "bytes": 42,
+        "lines": 1
+      },
+      "sha256": "7652a44117df162771e55f85e272e16c32b9231d6735641f6adab72c61d52252"
+    }
+  ],
+  "generated_by": "tools/generate.py",
+  "pkgver": "1.0.0",
+  "schema": 1,
+  "total_bytes": 2709838
+}

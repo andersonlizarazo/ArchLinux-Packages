@@ -1,0 +1,20 @@
+{
+  "commit": "db33ec7b1d5d9616a88c76394b7d0897bd0b97eb",
+  "committed_at": "2021-04-17T19:05:45Z",
+  "files": {
+    "LICENSE": {
+      "bytes": 1082,
+      "sha256": "5ea677fecc9e664ea10b7e327a94b43dbb939d24ab78282a9038e9ac30c05508"
+    },
+    "blns.json": {
+      "bytes": 27191,
+      "sha256": "b5edb4dffb234fa8b37c6353ec2cbd414ce721a03968d26343a7c276ab360f63"
+    },
+    "blns.txt": {
+      "bytes": 30079,
+      "sha256": "e87d3889599277616e183d4cf806bdf5b8cc408636c9bbba2b0701a211d98f7e"
+    }
+  },
+  "license": "MIT",
+  "repository": "minimaxir/big-list-of-naughty-strings"
+}

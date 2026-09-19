@@ -1,0 +1,11 @@
+﻿ASCII: The quick brown fox jumps over the lazy dog.
+Latin accents: café, naïve, Straße, smørrebrød, łódź, řeka
+CJK: 日本語のテキスト、中文字符、한국어 문장
+Emoji: 🎬 🎵 🖼️ 👍🏽 👨‍👩‍👧‍👦 🇯🇵 🏳️‍🌈
+RTL: العربية نص عربي. עברית טקסט.
+Combining: á é ñ versus precomposed á é ñ
+Zero width: a​b‌c﻿d (ZWSP, ZWNJ, ZWNBSP)
+Symbols: ∑ ∫ √ ≠ ≤ ≥ ∞ → ° ½ © ® ™
+Quotes: “curly” ‘single’ „low“ «guillemets» 「corner」
+Fullwidth: ＡＢＣ１２３
+Control: tab	here and a line separator inside a line

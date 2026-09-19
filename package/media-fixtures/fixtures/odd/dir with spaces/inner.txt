@@ -1,0 +1,1 @@
+fixture for odd/dir with spaces/inner.txt

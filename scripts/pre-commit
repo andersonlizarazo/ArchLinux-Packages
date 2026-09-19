@@ -1,0 +1,31 @@
+#!/bin/sh
+# Run the formatter, the linters and the fast tests.
+# This hook never rewrites files: fix what it reports, then commit again.
+set -eu
+fail=0
+
+if command -v ruff > /dev/null 2>&1; then
+    ruff format --check . || fail=1
+    ruff check . || fail=1
+else
+    echo "pre-commit: ruff not installed, skipping Python checks" >&2
+fi
+
+if command -v pytest > /dev/null 2>&1; then
+    pytest -q package/media-fixtures/tools || fail=1
+else
+    echo "pre-commit: pytest not installed, skipping tests" >&2
+fi
+
+if command -v shellcheck > /dev/null 2>&1; then
+    shellcheck -s sh scripts/pre-commit || fail=1
+fi
+
+# The hook itself and its README quote the prefix, so skip them.
+if out=$(git grep -nI '!D: ' -- . ':!scripts/**' 2>&1); then
+    echo "pre-commit: remove debug prints (prefix '!D: '):" >&2
+    echo "$out" >&2
+    fail=1
+fi
+
+exit "$fail"

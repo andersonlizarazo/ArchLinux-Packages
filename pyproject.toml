@@ -1,0 +1,19 @@
+[tool.ruff]
+line-length = 80
+target-version = "py311"
+exclude = ["**/fixtures", "**/cache"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "C4", "SIM", "PTH", "RET", "ARG", "PL", "RUF"]
+ignore = [
+    # Fixture geometry appears in the builder and in the recipe that asserts
+    # it, so the number is a checked pair, not a constant to centralise.
+    "PLR2004",
+    # Nested checks name the failing branch, which suits this toolchain.
+    "SIM102",
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Every builder shares one signature so the recipe table can dispatch on it.
+"**/tools/builders.py" = ["ARG001", "RUF001"]
+"**/test_units.py" = ["PLR2004"]
